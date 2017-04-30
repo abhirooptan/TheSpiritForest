@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 917ff126a12987f42aecf00e4d11fcf5
+timeCreated: 1467984843
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {instanceID: 0}
+  - playerDeathEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
